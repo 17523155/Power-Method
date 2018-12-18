@@ -1,3 +1,6 @@
+#M. Abdi Humanika 17523155
+#Rheza daffa pamungkas 17523182
+
 library(matlib)
 
 A = rbind(c(4, -5),
